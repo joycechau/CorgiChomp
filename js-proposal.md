@@ -31,8 +31,8 @@ This app will consist of a single screen with a game board, game controls, game 
 This project will be implemented with the following technologies:
 
 * Vanilla JavaScript and ``` jquery ``` for overall structure, game logic, and DOM manipulation  
- * HTML5 Canvas for rendering
- * Webpack to bundle and serve up the various scripts.
+* HTML5 Canvas for rendering
+* Webpack to bundle and serve up the various scripts.
 
 ### Implementation Timeline
 
@@ -41,7 +41,7 @@ This project will be implemented with the following technologies:
 * Setup and configure Node modules, ```webpack.config.js```, and ```package.json```
 
 #### Day 2: Create all necessary components
-* Create character icon, falling food icons, score, and lives.
+* Create character, falling food, score, and lives components.  
 * Test and render all components onto the canvas.
 
 #### Day 3: Create gameplay logic
