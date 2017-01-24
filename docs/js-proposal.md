@@ -32,7 +32,7 @@ This project will be implemented with the following technologies:
 
 * Vanilla JavaScript and ``` jquery ``` for overall structure, game logic, and DOM manipulation  
 * HTML5 Canvas for rendering
-* Webpack to bundle and serve up the various scripts.
+* Webpack to bundle and serve up the various scripts
 
 ### Implementation Timeline
 
