@@ -13,6 +13,10 @@ main, a, img, div {
   font-family: 'Raleway',serif;
 }
 
+#corgi {
+  display: none;
+}
+
 .screen {
   padding-top: 20px;
   display: flex;
