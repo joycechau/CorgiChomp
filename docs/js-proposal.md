@@ -5,24 +5,23 @@
 Corgi Chomp is a classic item catcher game. The game has the following rules:
 
 1) Player has three lives to catch as many falling food items as possible, avoiding the chocolate items.  
-2) Each level progresses with more food items falling and at quicker rates. Chocolate items also increase.
+2) Each level progresses with food items falling at quicker rates.
 
 ### Functionality & MVP
 
 With this Item Catcher simulator, the player will be able to:
 
-- [ ] Start, pause, and reset the game board
+- [ ] Start and reset the game board
 - [ ] Move the main character left and right
 - [ ] Catch falling food items
 
 In addition, this project will include:
-- [ ] An About modal describing the background and rules of the game
-- [ ] A production Readme
-
+- [ ] Instructions describing the rules of the game
+- [ ] A production README
 
 ### Wireframes
 
-This app will consist of a single screen with a game board, game controls, game play instructions, and nav links to my GitHub and LinkedIn accounts.  Game controls will include Start, Pause, and Reset buttons/options.  
+This app will consist of a single screen with a game board, game controls, game play instructions, and nav links to my GitHub and LinkedIn accounts.  Game controls will include Left, Right, Start, and Reset options.    
 
 ![alt text](https://res.cloudinary.com/joycechau/image/upload/v1485165797/corgichomp.png "Corgi Chomp Wireframe")
 
@@ -50,7 +49,7 @@ This project will be implemented with the following technologies:
 * Keep track of score and lives
 
 #### Day 4: Additional controls, levels, and final styling
-* Create controls for starting, pausing, and resetting the game.
+* Create controls for starting and resetting the game.
 * Increase level difficulty as game play progresses
 * Style and polish site
 
