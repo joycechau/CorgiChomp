@@ -8,11 +8,11 @@ Corgi Chomp was built in 2-3 days.
 
 A [proposal](https://github.com/joycechau/CorgiChomp/blob/master/docs/js-proposal.md) was drafted to help provide an implementation timeline during the development process.
 
-Initial wireframe:
+##### Initial wireframe:
 
 ![alt text](./docs/wireframe.png)
 
-Live product:
+##### Live product:
 
 ![alt text](./assets/corgi_chomp.png)
 
