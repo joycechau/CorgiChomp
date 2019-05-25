@@ -1,6 +1,6 @@
 # CorgiChomp
 
-[CorgiChomp](http://joycechau.me/CorgiChomp/) is an adorable spin on a classic item catcher browser game.  The player moves the corgi left and right to catch the falling bones, earning 1 point for every bone caught.  The player must avoid the falling chocolate (chocolate makes dogs sick! :mask:).  The player loses 1 life for every chocolate caught, and the game ends when all 3 lives are gone.  The object of the game is to score has many points as possible before losing all 3 lives.  
+[CorgiChomp](http://joycechau.net/CorgiChomp/) is an adorable spin on a classic item catcher browser game.  The player moves the corgi left and right to catch the falling bones, earning 1 point for every bone caught.  The player must avoid the falling chocolate (chocolate makes dogs sick! :mask:).  The player loses 1 life for every chocolate caught, and the game ends when all 3 lives are gone.  The object of the game is to score has many points as possible before losing all 3 lives.  
 
 ## Project Design
 
